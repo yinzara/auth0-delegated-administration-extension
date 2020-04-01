@@ -1,8 +1,8 @@
 {
-  "title": "Delegated Administration Dashboard",
-  "name": "auth0-delegated-admin",
+  "title": "cc-Delegated Administration Dashboard",
+  "name": "cc-auth0-delegated-admin",
   "version": "4.2.0",
-  "author": "auth0",
+  "author": "cc-auth0",
   "useHashName": false,
   "description": "This extension allows non-dashboard administrators to manage (a subset of) users.",
   "type": "application",
